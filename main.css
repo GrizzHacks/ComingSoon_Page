@@ -1,0 +1,111 @@
+
+
+
+/***********************
+  ROUND BUTTONS
+************************/
+.round {
+  border-radius: 34px;
+  height: 70px;
+}
+
+
+.email_link{
+
+  color: white;
+}
+.email_link:hover{
+
+  color: #999999;
+}
+/***********************
+  CUSTON BTN VALUES
+************************/
+
+input[type="text"]
+{
+    font-size:16px;
+    color: black;
+    font-weight: 20;
+    font-size-adjust: auto;
+}
+
+
+.jumbotron {
+    background: url('cover.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.container2 a{
+
+  background-color: #999999;
+  height: 38px;
+  border: 0px;
+
+  font-weight: 300px;
+
+
+padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 30px;
+
+}
+
+.btn-primary {
+    background: #999999;
+    color: black;
+    border: 0px;
+
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: black;
+    border: 0px;
+
+}
+.navbar-fixed-top {
+  margin-right: 0px;
+  margin-top: 0px;
+
+}
+
+
+.form-text{
+
+  color: #ffae19;
+
+}
+.year{
+
+  color: #ff7f7f;
+
+}
+.navbar-brand{
+
+  margin-right: 0px;
+  margin-top: 0px;
+
+}
+
+.spacesside{
+
+  margin-righ: 0px;
+   margin-top: 0px
+
+}
+
+.divider{
+    width:15px;
+    height:auto;
+    display:inline-block;
+}
+.apple{
+
+  text-decoration-color: ##e5e5e5;
+
+
+}
