@@ -195,7 +195,7 @@ padding-left: 30px;
   background-color: #2B2B2B;
   border-color: #2B2B2B;
 }
-.top-buffer { margin-top:20px; }
+.top-buffer { margin-top:20%; }
 
 
 sup { vertical-align:super;  top: -0.5em; line-height:100%;   font-size: 0.4em;
